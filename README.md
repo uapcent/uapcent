@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @uapcent
-- 👀 I’m looking for challeges that will expand my knowledge
-- 🌱 I’m currently working as a software developer at GFT Technologies 
-- 💞️ I’m looking to collaborate on a new project 
-- 📫 How to reach me: uapcent@gmail.com
+- Hi, I’m @uapcent
+- I'm always trying to expand my knowledge and apply it into new environments.
+- I’m currently working as a software enginyeer at GFT Technologies 
+- How to reach me: LinkedIn
 
 <!---
 uapcent/uapcent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
